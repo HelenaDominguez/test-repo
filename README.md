@@ -4,8 +4,7 @@
 ###Is this smaller?
 We are just testing GitHub
 
-*learning markdowns
-
-*not much more
+-learning markdowns
+-not much more
 
 
