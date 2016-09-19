@@ -4,8 +4,8 @@
 ###Is this smaller?
 We are just testing GitHub
 
-  -learning markdowns
-  -not much more
+- lerning markdowns
+- does it work now?
   
   
 - No problems exist
